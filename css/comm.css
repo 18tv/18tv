@@ -26,7 +26,7 @@ body {
 	width: 100%;
 	height: 100%;
 	position: relative;
-	background-image: url(../image/beijing.jpg);
+	background-image: url(../image/011.jpg);
 	background-position: center top;
 	background-size: cover;
 }
@@ -59,7 +59,7 @@ body {
 	filter: blur(5px);
 	z-index: -3;
 	margin: -30px;
-	background-image: url(../image/beijing.jpg);
+	background-image: url(../image/011.jpg);
 	background-position: center top;
 	background-size: cover;
 	background-attachment: fixed;
