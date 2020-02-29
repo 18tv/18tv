@@ -59,7 +59,7 @@ body {
 	filter: blur(5px);
 	z-index: -3;
 	margin: -30px;
-	background-image: url(../image/shadow.jpg);
+	background-image: url(../image/shadow.png);
 	background-position: center top;
 	background-size: cover;
 	background-attachment: fixed;
