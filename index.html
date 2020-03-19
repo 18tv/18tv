@@ -14,10 +14,10 @@
 	<script type="text/javascript">  
     $(document).ready(function() {  
         $("#linkQrCode").qrcode({  
-            render : "canvas",      //设置渲染方式，有table和canvas，使用canvas方式渲染性能相对来说比较好  
+            render : "table",      //设置渲染方式，有table和canvas，使用canvas方式渲染性能相对来说比较好  
             text : "https://www.11tv.fun",      //扫描二维码后显示的内容,可以直接填一个网址，扫描二维码后自动跳向该链接  
-            width : "120",          //二维码的宽度  
-            height : "120",         //二维码的高度 
+            width : "140",          //二维码的宽度  
+            height : "140",         //二维码的高度 
 	    correctLevel: 3,//二维码纠错级别 
         });  
     });  
